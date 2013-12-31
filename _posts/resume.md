@@ -1,8 +1,18 @@
-<div>
+---
+layout: post
+category : lessons
+tagline: "Supporting tagline"
+tags : [intro, beginner, jekyll, tutorial]
+---
+{% include JB/setup %}
 
-        Swapnil V. Patil
 
-</div>
+
+
+
+##Swapnil V. Patil
+
+
 
     F.no 203, P. no 493, Raajyoga Appt., CIDCO Waluj Mahanagar, Aurangabad, MH
 
